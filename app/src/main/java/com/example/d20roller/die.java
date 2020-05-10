@@ -10,7 +10,7 @@ public class die {
     // Generates random int between 1 and num_sides (inclusive)
     public int roll(){
         Random rand = new Random();
-        int result = rand.nextInt(num_sides - 1 + 1) + 1;
+        int result = rand.nextInt(num_sides) + 1;
         return result;
     }
 
