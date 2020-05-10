@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">d20 roller</string>
+    <string name="d20_name">D20</string>
+    <string name="main_title">DnD Dice Roller</string>
+    <string name="roll_result">0</string>
+</resources>
